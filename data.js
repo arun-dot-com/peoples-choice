@@ -278,4 +278,13 @@ const peopleChoiceData = [
     favSeries: "Silicon Valley",
     favSeriesID: "60573-silicon-valley",
   },
+  {
+    username: "arun-dot-com",
+    favAnime: "Jjutsu Kaisen",
+    favAnimeID: "95479",
+    favMovie: "Mission Impossible dead reckoning part one",
+    favMovieID: "575264-mission-impossible-dead-reckoning-part-one",
+    favSeries: "My lovely Wife",
+    favSeriesID: "231364",
+  }
 ];
