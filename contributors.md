@@ -12,6 +12,8 @@ Arjun Pandit [GitHub](https://github.com/arjunpndt) | [LinkedIn](https://www.lin
 </br>
 Dhruv puri [GitHub](https://github.com/GettingWeirdKnowledge)
 </br>
+Arun Santhosh R A [GitHub](https://github.com/arun-dot-com)
+</br>
 S Maheshwar [GitHub](https://github.com/Maheshwar-S) | [LinkedIn](https://www.linkedin.com/in/maheshwar-s-025539278/)
 </br>
 Guilherme Orcezi [GitHub](https://github.com/guilhermeorcezi) | [LinkedIn](https://www.linkedin.com/in/guilhermeorcezi/)
